@@ -1,0 +1,22 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "hw-nodejs-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Molnar-Aczel Zsuzsanna",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "crypto": "^1.0.1",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
